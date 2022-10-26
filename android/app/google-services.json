@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310229874301",
+    "project_id": "restaurantenieve",
+    "storage_bucket": "restaurantenieve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310229874301:android:2619226734d8507eeca314",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310229874301-sn3cpimvfehhptsuck3l9jvbckaj6403.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "1414687a4414ca090bcf361c0794ab53c97e9530"
+          }
+        },
+        {
+          "client_id": "310229874301-p8cqg6q8mpo98gv4k59r62er8hgropv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHWnaZS7suiMgGPHpuU1qcarwfh6uPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310229874301-p8cqg6q8mpo98gv4k59r62er8hgropv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
